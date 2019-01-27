@@ -1,0 +1,33 @@
+nav {
+  margin-bottom: 3.125rem;
+}
+
+a.btn {
+  margin-top: 0.9375rem;
+}
+
+.btn--entries {
+  margin: 0 0 0.9375rem 0.9375rem;
+}
+
+.card--entries {
+  margin-bottom: 1rem;
+}
+
+.entry {
+  padding: 5.625rem 1.25rem;
+}
+
+.entry__title {
+  font-size: 1.5rem;
+}
+
+.entry__text {
+  margin-top: 1.25rem;
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+.entry__data {
+  text-align: right;
+}
